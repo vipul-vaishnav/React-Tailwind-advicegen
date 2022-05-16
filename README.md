@@ -13,12 +13,12 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![Preview](./screenshot.jpg)
+![Preview](./preview.png)
 
 ### Links
 
-- Solution URL: [Code](https://your-solution-url.com)
-- Live Site URL: [Website](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/vipul-vaishnav/React-Tailwind-advicegen)
+- Live Site URL: [Website](https://react-advice-gen-2.netlify.app/)
 
 ## My process
 
@@ -29,6 +29,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- [Tailwind CSS](https://tailwindcss.com/) - Utility First CSS framework
 - [React](https://reactjs.org/) - JS library
 
 ## Author
