@@ -12,6 +12,8 @@
 /build
 
 # misc
+.prettierrc
+configvipul
 .DS_Store
 .env.local
 .env.development.local
